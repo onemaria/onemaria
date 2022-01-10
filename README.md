@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onemaria
+- 👋 Hi, I’m Maria
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently studying Molecular Biology and study on the side C and Python.
 
